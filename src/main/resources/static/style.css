@@ -1,11 +1,14 @@
 html,body {
     height:100%;
-    background:red;
+    background:gray;
+    color: white
     }
     header {
     display:block;
     background:#d7e0e9;
     padding:10px 0px;
+    color: white
+
     }
     section {
     width: 79%;
@@ -23,5 +26,4 @@ html,body {
     clear: both;
     background: blue;
     text-align: center;
-    color: black;
     }
