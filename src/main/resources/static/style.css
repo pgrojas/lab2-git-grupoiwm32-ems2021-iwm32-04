@@ -1,11 +1,14 @@
 html,body {
     height:100%;
-    background:white;
+    background:gray;
+    color: white
     }
     header {
     display:block;
     background:#d7e0e9;
     padding:10px 0px;
+    color: white
+
     }
     section {
     width: 79%;
@@ -13,7 +16,8 @@ html,body {
     overflow: auto;
     padding-bottom: 60px;
     padding-top:30px;
-    color: black;
+    color: white
+
     }
     footer {
     position: relative;
@@ -23,5 +27,4 @@ html,body {
     clear: both;
     background: #d7e0e9;
     text-align: center;
-    color: black;
     }
